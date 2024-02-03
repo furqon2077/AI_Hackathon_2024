@@ -11,3 +11,7 @@ Prizes await the winners:
 And that's not all! Cool prizes for nominations, AI Conference with top speakers and mentors, and a jury of local and foreign IT companies await. This is your chance to meet experts, make a network, showcase your talents and win great prizes at AI Hackathon 2024! 💻✨
 
 📌Instagram | Telegram | LinkedIn
+
+Location of Hackathon:
+
+![Location image](src\img\location.jpg?raw=true)
