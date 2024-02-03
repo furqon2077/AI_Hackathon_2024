@@ -14,4 +14,4 @@ And that's not all! Cool prizes for nominations, AI Conference with top speakers
 
 Location of Hackathon:
 
-![Location image](src\img\location.jpg?raw=true)
+![Location Image](src/img/location.jpg)
